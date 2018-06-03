@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9800</color>
+    <color name="colorPrimaryDark">#f57c00</color>
+    <color name="colorAccent">#ff5252</color>
+    <color name="doneButton">#fff540</color>
+    <color name="saveButton">#33ccff</color>
+    <color name="deleteButton">#ff5c33</color>
+</resources>
